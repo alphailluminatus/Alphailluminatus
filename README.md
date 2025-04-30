@@ -28,7 +28,7 @@ I'm currently enrolled in the **ALX AWS Cloud Computing Program** and **Backend 
 - DevOps Practices  
 - Cloud Security & Automation  
 
-Though I'm early in my path, I’m committed to learning and building consistently. 🚀
+Though I'm early in my path, I’m committed to learning and building consistently.
 
 ---
 
@@ -45,7 +45,7 @@ I aspire to:
 ## 🔭 Current Learning
 
 - AWS Core Services & Architecture  
-- Backend Fundamentals with Python & Node.js  
+- Backend Fundamentals with Python & Javascript  
 - DevOps Foundations (Linux, Git, Containers)  
 
 ---
