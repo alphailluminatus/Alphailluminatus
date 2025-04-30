@@ -1,6 +1,7 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Okikiola Shomuyiwa</h1>
+<h1 align="center">Hi 👋, I'm Okikiola Adedamola Shomuyiwa</h1>
+
 <p align="center">
   <em>Aspiring Cloud & Backend Engineer | ALX Learner | DevOps Enthusiast</em>
 </p>
@@ -45,7 +46,7 @@ I aspire to:
 
 - AWS Core Services & Architecture  
 - Backend Fundamentals with Python & Node.js  
-- DevOps Foundations (Linux, Git, Containers)
+- DevOps Foundations (Linux, Git, Containers)  
 
 ---
 
@@ -53,7 +54,7 @@ I aspire to:
 
 - 📧 Email: [Solomonokikiola@gmail.com](mailto:Solomonokikiola@gmail.com)  
 - 💼 LinkedIn: [Okikiola Shomuyiwa](https://www.linkedin.com/in/okikiola-shomuyiwa-206940160)  
-- 🌐 Portfolio: [bit.ly/Okikiolashomuyiwa](https://bit.ly/Okikiolashomuyiwa)
+- 🌐 Portfolio: [bit.ly/Okikiolashomuyiwa](https://bit.ly/Okikiolashomuyiwa)  
 
 ---
 
